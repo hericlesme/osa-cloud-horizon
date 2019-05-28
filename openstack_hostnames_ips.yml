@@ -1,0 +1,51 @@
+# This file is managed by openstack-ansible. No manual edits.
+{
+    "aio1": {
+        "ansible_host": "172.29.236.100",
+        "container_address": "172.29.236.100"
+    },
+    "aio1_cinder_api_container-0f6cf8a3": {
+        "ansible_host": "172.29.238.228",
+        "container_address": "172.29.238.228"
+    },
+    "aio1_galera_container-fa4ac82b": {
+        "ansible_host": "172.29.237.32",
+        "container_address": "172.29.237.32"
+    },
+    "aio1_glance_container-2aed2155": {
+        "ansible_host": "172.29.238.192",
+        "container_address": "172.29.238.192"
+    },
+    "aio1_horizon_container-f9faecfb": {
+        "ansible_host": "172.29.237.232",
+        "container_address": "172.29.237.232"
+    },
+    "aio1_keystone_container-3917cd5a": {
+        "ansible_host": "172.29.238.175",
+        "container_address": "172.29.238.175"
+    },
+    "aio1_memcached_container-c4601ab0": {
+        "ansible_host": "172.29.237.222",
+        "container_address": "172.29.237.222"
+    },
+    "aio1_neutron_server_container-3c5104ad": {
+        "ansible_host": "172.29.238.147",
+        "container_address": "172.29.238.147"
+    },
+    "aio1_nova_api_container-126cdcbd": {
+        "ansible_host": "172.29.237.163",
+        "container_address": "172.29.237.163"
+    },
+    "aio1_rabbit_mq_container-d5307449": {
+        "ansible_host": "172.29.238.23",
+        "container_address": "172.29.238.23"
+    },
+    "aio1_repo_container-179bdba8": {
+        "ansible_host": "172.29.237.146",
+        "container_address": "172.29.237.146"
+    },
+    "aio1_utility_container-eca5a7bf": {
+        "ansible_host": "172.29.238.218",
+        "container_address": "172.29.238.218"
+    }
+}
